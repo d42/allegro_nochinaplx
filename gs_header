@@ -1,0 +1,6 @@
+// ==UserScript==
+// @name          Webmonkey's Floating Menu
+// @namespace     http://www.webmonkey.com
+// @description   A Greasemonkey script that finds h2 tags and creates a floating menu of them.
+// @include       http://allegro.pl/*
+// ==/UserScript==

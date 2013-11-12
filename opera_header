@@ -1,0 +1,6 @@
+// ==UserScript==
+// @include http://allegro.pl/*
+// @include https://allegro.pl/*
+// @include http://*.allegro.pl/*
+// @include https://*.allegro.pl/*
+
