@@ -1,7 +1,7 @@
 
 all: directories opera gs chrome
 
-directores:
+directories:
 	mkdir -p {opera, gs, chrome}
 
 opera: compile
