@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+   "content_scripts": [ 
+    {
+        "js": [ "jquery.min.js", "replace.js" ],
+        "matches": ["http://allegro.pl/*"],
+        "run_at": "document_start"
+    } 
+  ],
+   "description": "hurr durr",
+   "homepage_url": "http://rurkowce.github.io",
+   "name": "allegro NoChinaPLX",
+   "version": "1.0"
+}
