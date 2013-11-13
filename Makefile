@@ -1,8 +1,6 @@
 
-all: directories opera gs chrome
+all: opera gs chrome
 
-directories:
-	mkdir -p {opera, gs, chrome}
 
 opera: compile
 	cat opera_header > opera/includes/replace.js
